@@ -31,7 +31,7 @@ Module names:
 
 The script should be executed in Command Prompt.
 To use the script, the following steps must be executed:
-1.	Type `cmd` in the Search line --> Click on the Command Prompt icon --> Type: `python "the path to the script including the extension (.py)"`, e.g. `python "D:/Projects/Script S1.py"` --> Press `Enter`.
+1.	Type `cmd` in the Search line --> Click on the Command Prompt icon --> Type: `python "the path to the script including the extension (.py)"`, e.g. `python "D:/Projects/Kenya_Align.py"` --> Press `Enter`.
 2.	Choose the files for processing in the new pop-up window and press `Open`. The processed file will be saved to the same location.
 
 ## Notes and recommendations
