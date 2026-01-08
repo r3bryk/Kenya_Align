@@ -16,7 +16,7 @@ The script takes `Excel` file as input and does the following:
 Before using the script, several applications/tools have to be installed:
 1.	Python 3; https://www.python.org/downloads/windows/.
 2.	All necessary modules (see **lines 35-48**).
-3.	Google Chrome and ChromeDriver.
+3.	Google Chrome and ChromeDriver; https://developer.chrome.com/docs/chromedriver/downloads.
 
 Modules can be intalled via Command Prompt as follows:
 Type `cmd` in the Search line --> Click on the Command Prompt icon --> Type: `pip install module_name` --> Press `Enter` --> Repeat for the next module.
