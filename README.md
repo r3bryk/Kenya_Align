@@ -19,8 +19,7 @@ Before using the script, several applications/tools have to be installed:
 3.	Google Chrome and ChromeDriver.
 
 Modules can be intalled via Command Prompt as follows:
-Type `cmd` in the Search line --> Click on the Command Prompt icon -->
---> Type: `pip install module_name` --> Press `Enter` --> Repeat for the next module.
+Type `cmd` in the Search line --> Click on the Command Prompt icon --> Type: `pip install module_name` --> Press `Enter` --> Repeat for the next module.
 
 Module names:
 * tk
