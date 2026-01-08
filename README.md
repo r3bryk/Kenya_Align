@@ -45,7 +45,7 @@ Before running the script, change the path to the working folder and the output 
 This script is tailored to a certain data table format, i.e. the GCMSsolution (v4.52) software (Shimadzu, Japan) output file format.
 
 The input file must contain at least the following columns to be processed: 
-`"Substance"`, `"CAS"`, `"RT_int"`.
+`"Substance"`, `"CAS"`, `"RT, min"`, and `"Area"`.
 
 ## License
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/mit)
